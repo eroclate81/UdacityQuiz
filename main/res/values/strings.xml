@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UdacityQuiz</string>
+    <string name="points">Your score is :</string>
+    <string name="Questionario">Questionario</string>
+    <string name="question1">how did you know the udacity project?</string>
+    <string name="question2">Rate this course?</string>
+    <string name="question3">how are your tutors in the course?</string>
+    <string name="question4">are the lessons of the course simple and intuitive?</string>
+    <string name="question5">Are you satisfied with the course?</string>
+
+    <string name="responseQuestion3">awesome</string>
+    <string name="responseQuestion1_1">Internet</string>
+    <string name="responseQuestion1_2">TV</string>
+    <string name="responseQuestion1_3">Friends</string>
+    <string name="getresult">OK</string>
+
+</resources>

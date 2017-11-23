@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Questionario">Questionario</string>
+    <string name="points">Il tuo punteggio è di :</string>
+    <string name="app_name">survey</string>
+    <string name="question1">come hai conosciuto il progetto udacity?</string>
+    <string name="question2">dai un voto a questo corso!</string>
+    <string name="question3">come sono i tuoi tutor del corso?</string>
+    <string name="question4">le lezioni del corso sono spiegate in modo semplice e intuitivo?</string>
+    <string name="question5">Sei soddisfatto del corso?</string>
+    <string name="responseQuestion3">Fantastici</string>
+    <string name="responseQuestion1_1">Internet</string>
+    <string name="responseQuestion1_2">TV</string>
+    <string name="responseQuestion1_3">Amici</string>
+    <string name="getresult">Conferma</string>
+
+</resources>

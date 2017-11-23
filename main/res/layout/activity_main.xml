@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.udacity.quiz.udacityquiz.MainActivity"
+    android:orientation="vertical"
+
+    android:paddingBottom="8dp"
+    android:background="@android:color/holo_blue_light"
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="8dp"
+        android:text="@string/Questionario"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold|italic"
+        android:textColor="@android:color/black"
+
+        android:padding="8dp"
+
+        />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/contentRoot"
+    android:layout_marginLeft="8dp"
+    android:background="@android:color/holo_blue_light">
+
+</LinearLayout>
+ <Button
+        style="@android:style/Widget.Material.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:background="?android:attr/colorPrimary"
+        android:onClick="submitResult"
+        android:text="@string/getresult" />
+</LinearLayout>
+</ScrollView>
